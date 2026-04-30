@@ -31,3 +31,7 @@
 - Every external process gets a hard timeout. No unbounded waits.
 - Never commit secrets. Strip credentials from any environment a tool or agent inherits.
 - Type checker and linter are gates, not suggestions. Fix the root cause, don't suppress.
+
+## Writing style
+
+- Be brief.
