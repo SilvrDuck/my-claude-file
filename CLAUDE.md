@@ -9,6 +9,7 @@
 - Tests mock collaborators; production never bends to make tests possible.
 - Three similar lines is better than a premature abstraction. Don't design for hypothetical future requirements.
 - Default to no comments. Only add one when the WHY is non-obvious (hidden constraint, subtle invariant, workaround). Never explain WHAT — names do that.
+- No belt and suspenders pattern. Fail fast and surface errors.
 
 ## Tooling rules
 
