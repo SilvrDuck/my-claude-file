@@ -35,4 +35,5 @@
 
 ## Writing style
 
+- My instructions are addressed to the agent, not to the artifact. Never echo a constraint I gave as a comment, heading, or name. If I ask for "keep it minimal", "make it safe", the output should simply abbide, never announce it (# minimal version, // safe: dry-runs by default).
 - Be brief.
